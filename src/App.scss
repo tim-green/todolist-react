@@ -331,7 +331,7 @@ header {
 .sidebar {
   @include no-select();
   width: 266px;
-  height: calc(100vh);
+  height: 100vh;
   padding-top: 74px;
   position: fixed;
   top:0;
